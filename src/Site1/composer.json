@@ -1,0 +1,14 @@
+{
+    "require": {
+        "twig/twig": "v3.14.0",
+        "nikic/fast-route": "^1.3",
+      "smarty/smarty": "^5.4"  
+    },
+    "autoload":{
+      "psr-4": {
+        "Controller\\":"controller/",
+        "Model\\":"model/"
+      }
+    }
+  }
+  
