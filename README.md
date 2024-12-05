@@ -1,4 +1,4 @@
-![Logo PHP](src/Site1/public/assets/images/php-logo.png)
+<img src="src/Site1/public/assets/images/php-logo.png" alt="PHP Logo" width="200"/>
 
 # Hotels
 
