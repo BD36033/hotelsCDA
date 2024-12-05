@@ -1,4 +1,4 @@
-![Logo PHP](src/Site1/assets/images/php-logo.png)
+![Logo PHP](src/Site1/public/assets/images/php-logo.png)
 
 # Hotels
 
