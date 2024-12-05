@@ -1,6 +1,6 @@
 # Hotels
 
-Description courte du projet. Expliquez brièvement ce que fait votre projet et son utilité.
+Ce projet est une application de gestion d'hôtels qui permet aux utilisateurs de réserver des chambres, de gérer leurs réservations et de consulter les différents hôtels disponibles. L'application vise à simplifier le processus de réservation pour les clients tout en offrant une interface conviviale pour les gestionnaires d'hôtels.
 
 ## Lien de Démonstration
 
